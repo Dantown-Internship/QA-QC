@@ -1,0 +1,44 @@
+
+**Intern Assessment for Application Testing**  
+
+
+**Objective**  
+The objective of this assessment is to evaluate the intern's ability to:  
+1. Prepare a **Test Plan** and **Test Cases** for the specified functionalities of the application.  
+2. Perform manual testing of the functionalities using the application.  
+3. Generate a **Bug Report** with clear details for identified issues.  
+
+---
+
+**Application Details**  
+- **Application URL**: [GoCaby Application](https://gocaby.com/)  
+
+---
+
+**Assessment Scope**  
+1. **Sign Up as a Driver**  
+   - Test the process of signing up as a driver on the platform.  
+   - Ensure all input fields, validations, and backend responses function as expected.  
+
+2. **Send Package**  
+   - Test the process of sending a package, including selecting a pickup location, drop-off location, and pricing.  
+   - Validate the UI, navigation flow, and submission behavior.  
+
+3. **Eat Now**  
+   - Test the ordering process for food delivery, from browsing restaurants to placing an order.  
+   - Ensure smooth navigation, payment functionality(DO NOT MAKE PAYMENT), and accurate order tracking.  
+
+
+**Deliverables**  
+1. **Test Plan**  
+2. **Test Cases**  
+3. **Bug Report**  
+
+---
+
+**Evaluation Criteria**  
+Interns will be evaluated based on the following:  
+1. **Completeness**: All required deliverables are submitted and meet the expected scope.  
+2. **Clarity**: Test cases and bug reports are clear, concise, and easy to understand.  
+3. **Attention to Detail**: Ability to identify edge cases and document precise issues.  
+4. **Timeliness**: Submission of the assignment within the allocated time.  
